@@ -1,0 +1,2 @@
+Youtube: https://www.youtube.com/watch?v=JNRHy6P1efc
+Tableau Public Server: https://public.tableau.com/profile/agnes.liu#!/vizhome/LendingClubLoanAnalyticsDashboard/Dashboard
